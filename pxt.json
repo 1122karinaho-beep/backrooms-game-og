@@ -1,0 +1,63 @@
+{
+    "name": "backrooms game og",
+    "description": "bleh",
+    "dependencies": {
+        "device": "*",
+        "browser-events": "*",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24",
+        "sevenseg": "*",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "pxt-lantern": "github:felixtsu/pxt-lantern#v0.2.1",
+        "arcade-sound-instructions": "github:riknoll/arcade-sound-instructions#399dee51c712f25b27477f1302e99902072db623",
+        "animation": "*",
+        "Tile Animator": "github:LautaroCeballos/Tiles-Animator#2e87fd85737dcf61210ea9004eac2167c1e59fb6",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "Achievements": "github:meeeeeeeep1/achievements#4910ba22f82f73691752a6af29ed23215662723a",
+        "pxt-raycasting": "github:AqeeAqee/pxt-raycasting#v0.3.18"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "stable4.0",
+        "tag": "v4.0.12",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/5ea8c06567012ba28f491d0af71ef1ff68380a20",
+        "target": "4.1.27",
+        "pxt": "12.2.32",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#c0d1cc",
+        "#603b3a",
+        "#170e19",
+        "#702400",
+        "#8F0000",
+        "#909140",
+        "#827F4A",
+        "#676A44",
+        "#65738c",
+        "#3a604a",
+        "#213b25",
+        "#433a60",
+        "#7c94a1",
+        "#8A8589",
+        "#8C9B96"
+    ]
+}
